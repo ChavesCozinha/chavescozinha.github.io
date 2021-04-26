@@ -36,6 +36,9 @@ plugins:
 disqus:
   shortname: maisonchaves
 search_full_content: true
+collections:
+  livros:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
