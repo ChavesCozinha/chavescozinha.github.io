@@ -3,6 +3,7 @@ layout: post
 title:  "Lasanha da candida"
 date:   2021-04-26 19:37:02 -0300
 categories: receitas
+share: true
 image: 
   path: https://i.imgur.com/gwdEDE9.jpg
   thumbnail: https://i.imgur.com/gwdEDE9.jpg
