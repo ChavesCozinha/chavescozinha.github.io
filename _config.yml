@@ -53,6 +53,13 @@ author:
   name: Maison Chaves
   twitter: maisonchaves
   picture: /images/eu.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/maisonchaves
+      icon: fab fa-twitter
+    - title: Instagram
+      url: https://www.instagram.com/maison_chaves/
+      icon: fab fa-instagram
 
 footer_links:
   - title: Twitter
